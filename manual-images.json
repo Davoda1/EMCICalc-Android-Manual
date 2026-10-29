@@ -1,0 +1,37 @@
+[
+  {
+    "file": "EMCICalc-1.0.0-Android-Host-UI-landscape-compact.png",
+    "alt": "Compact keypad in landscape",
+    "width": 800,
+    "height": 360,
+    "sha256": "15a755044fdb9c371fe8ba244423fd2ad7849b881f1df71e3bd4eaad3ab65741"
+  },
+  {
+    "file": "EMCICalc-1.0.0-Android-Host-UI-recurring-exact-decimal.png",
+    "alt": "An exact recurring decimal",
+    "width": 400,
+    "height": 800,
+    "sha256": "285f6afd06d2fe244e2c854dc766b96f04d4f131a2f9fcbf219e82db2fae66e3"
+  },
+  {
+    "file": "EMCICalc-1.0.0-Android-Host-UI-settings.png",
+    "alt": "Mobile Settings",
+    "width": 400,
+    "height": 800,
+    "sha256": "a63474eca229c5bcd3c2d77c4996da96c88e7061bf99ed86f1fa1c63bf02e325"
+  },
+  {
+    "file": "EMCICalc-1.0.0-Android-Host-UI-theme-classic.png",
+    "alt": "Classic calculator, exact radical expression and result",
+    "width": 400,
+    "height": 800,
+    "sha256": "e9eb46eb439e2695c1046c429b542ed50f8b05605257df41a5db57350a8318b4"
+  },
+  {
+    "file": "EMCICalc-1.0.0-Android-Host-UI-theme-modern-light.png",
+    "alt": "Modern Light calculator theme",
+    "width": 400,
+    "height": 800,
+    "sha256": "6f94b6cc4a6c35db86b190bf28184698da4c84fa5f44643568db16b45e372501"
+  }
+]

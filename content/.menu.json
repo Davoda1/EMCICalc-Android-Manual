@@ -1,0 +1,79 @@
+{
+  "title": "EMCICalc Android 1.0.0 — User Manual",
+  "entries": [
+    {
+      "search": true,
+      "label": "Search the manual"
+    },
+    {
+      "text": "GET STARTED · CALCULATE · EXPLORE · SAVE"
+    },
+    {
+      "path": "01-install.md",
+      "label": "01. Install and open"
+    },
+    {
+      "path": "02-first-calculation.md",
+      "label": "02. Your first calculation"
+    },
+    {
+      "path": "03-touch-editing.md",
+      "label": "03. Touch editing and keypad layers"
+    },
+    {
+      "path": "04-calculation-modes.md",
+      "label": "04. Angle, base, precision and complex numbers"
+    },
+    {
+      "path": "05-navigation.md",
+      "label": "05. Navigate the workspace"
+    },
+    {
+      "path": "06-history-memory.md",
+      "label": "06. History, memory and registers"
+    },
+    {
+      "path": "07-conversions.md",
+      "label": "07. Constants, units and currency"
+    },
+    {
+      "path": "08-algebra-steps.md",
+      "label": "08. Algebra, calculus, Details and Steps"
+    },
+    {
+      "path": "09-graphs-tables.md",
+      "label": "09. Graphs and tables"
+    },
+    {
+      "path": "10-workbenches.md",
+      "label": "10. Matrices, data and Finance"
+    },
+    {
+      "path": "11-input-workflows.md",
+      "label": "11. Other ways to calculate"
+    },
+    {
+      "path": "12-appearance-help.md",
+      "label": "12. Make the interface comfortable"
+    },
+    {
+      "path": "13-save-restore.md",
+      "label": "13. Save, export and restore work"
+    },
+    {
+      "path": "14-troubleshooting.md",
+      "label": "14. Troubleshooting and quick reference"
+    },
+    {
+      "text": "DETAILED REFERENCE"
+    },
+    {
+      "path": "finance",
+      "label": "Finance reference — fields, examples and conventions"
+    },
+    {
+      "path": "images",
+      "label": "Illustration gallery and provenance"
+    }
+  ]
+}

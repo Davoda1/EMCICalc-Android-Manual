@@ -1,0 +1,9 @@
+{
+  "EMCICalc-1.0.0-Android-Host-UI-theme-classic.png": [
+    {"label": [87, 161], "target": [88, 115], "text": "Expression: edit the structured input here; the cursor shows the insertion point."},
+    {"label": [224, 190], "target": [284, 195], "text": "Result: the exactness marker belongs to the displayed representation. S⇔D changes its presentation."},
+    {"label": [314, 82], "target": [360, 32], "text": "Settings gear: choose theme, keypad layout, precision, language and feedback."},
+    {"label": [52, 265], "target": [35, 292], "text": "SHIFT: access gold alternate legends; ALPHA selects the blue alternatives."},
+    {"label": [205, 266], "target": [150, 292], "text": "MENU: open graphing, workbenches, History, storage and other tools."}
+  ]
+}

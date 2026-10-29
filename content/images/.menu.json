@@ -1,0 +1,25 @@
+{
+  "title": "Illustration gallery",
+  "entries": [
+    {
+      "path": "EMCICalc-1.0.0-Android-Host-UI-landscape-compact.png",
+      "label": "Compact keypad in landscape"
+    },
+    {
+      "path": "EMCICalc-1.0.0-Android-Host-UI-recurring-exact-decimal.png",
+      "label": "An exact recurring decimal"
+    },
+    {
+      "path": "EMCICalc-1.0.0-Android-Host-UI-settings.png",
+      "label": "Mobile Settings"
+    },
+    {
+      "path": "EMCICalc-1.0.0-Android-Host-UI-theme-classic.png",
+      "label": "Classic calculator, exact radical expression and result"
+    },
+    {
+      "path": "EMCICalc-1.0.0-Android-Host-UI-theme-modern-light.png",
+      "label": "Modern Light calculator theme"
+    }
+  ]
+}

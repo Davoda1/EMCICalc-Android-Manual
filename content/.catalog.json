@@ -1,0 +1,229 @@
+{
+  "items": {
+    "01-install.md": {
+      "title": "01. Install and open",
+      "description": "APK compatibility, installation and updating.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "02-first-calculation.md": {
+      "title": "02. Your first calculation",
+      "description": "Enter a calculation and distinguish exact results from previews.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "03-touch-editing.md": {
+      "title": "03. Touch editing and keypad layers",
+      "description": "Touch editing, templates, SHIFT, ALPHA and REG.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "04-calculation-modes.md": {
+      "title": "04. Angle, base, precision and complex numbers",
+      "description": "Angles, bases, significant digits and complex numbers.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "05-navigation.md": {
+      "title": "05. Navigate the workspace",
+      "description": "Use MENU, workbench groups and landscape.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "06-history-memory.md": {
+      "title": "06. History, memory and registers",
+      "description": "Reuse History, Ans, memory and named registers.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "07-conversions.md": {
+      "title": "07. Constants, units and currency",
+      "description": "Browse constants and convert units or currencies.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "08-algebra-steps.md": {
+      "title": "08. Algebra, calculus, Details and Steps",
+      "description": "Guided algebra, calculus, result details and derivations.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "09-graphs-tables.md": {
+      "title": "09. Graphs and tables",
+      "description": "Create curves, change ranges and export plots or tables.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "10-workbenches.md": {
+      "title": "10. Matrices, data and Finance",
+      "description": "Matrix, statistics and all 29 Finance worksheets.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "11-input-workflows.md": {
+      "title": "11. Other ways to calculate",
+      "description": "Classic, RPN, Programmer, definitions and custom layouts.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "12-appearance-help.md": {
+      "title": "12. Make the interface comfortable",
+      "description": "Themes, keypad layouts, language and feedback.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "13-save-restore.md": {
+      "title": "13. Save, export and restore work",
+      "description": "Android document exports and workspace restoration.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "14-troubleshooting.md": {
+      "title": "14. Troubleshooting and quick reference",
+      "description": "Common problems, quick checks and support information.",
+      "tags": [
+        "User guide"
+      ]
+    },
+    "images/EMCICalc-1.0.0-Android-Host-UI-landscape-compact.png": {
+      "title": "Compact keypad in landscape",
+      "alt": "Compact keypad in landscape",
+      "description": "EMCICalc 1.0.0 — Android interface rendered on a Linux host; not an Android device capture.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "images/EMCICalc-1.0.0-Android-Host-UI-recurring-exact-decimal.png": {
+      "title": "An exact recurring decimal",
+      "alt": "An exact recurring decimal",
+      "description": "EMCICalc 1.0.0 — Android interface rendered on a Linux host; not an Android device capture.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "images/EMCICalc-1.0.0-Android-Host-UI-settings.png": {
+      "title": "Mobile Settings",
+      "alt": "Mobile Settings",
+      "description": "EMCICalc 1.0.0 — Android interface rendered on a Linux host; not an Android device capture.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "images/EMCICalc-1.0.0-Android-Host-UI-theme-classic.png": {
+      "title": "Classic calculator, exact radical expression and result",
+      "alt": "Classic calculator, exact radical expression and result",
+      "description": "EMCICalc 1.0.0 — Android interface rendered on a Linux host; not an Android device capture.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "images/EMCICalc-1.0.0-Android-Host-UI-theme-modern-light.png": {
+      "title": "Modern Light calculator theme",
+      "alt": "Modern Light calculator theme",
+      "description": "EMCICalc 1.0.0 — Android interface rendered on a Linux host; not an Android device capture.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "images": {
+      "title": "Illustration gallery",
+      "description": "These illustrations show the actual Android interface rendered on a Linux host. They are not Android device captures. Android system bars, keyboard and document picker can differ.",
+      "tags": [
+        "Illustrations"
+      ]
+    },
+    "finance": {
+      "title": "Finance reference",
+      "description": "Complete worksheet fields, examples, financial helper syntax and interpretation notes.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/01-using-the-worksheets.md": {
+      "title": "Using the worksheets",
+      "description": "Open a financial worksheet, enter expressions, work with tables, calculate and copy results.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/02-units-rates-dates-and-rounding.md": {
+      "title": "Units, rates, dates and rounding",
+      "description": "Understand fractional rates, consistent units, dated accrual and monetary rounding.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/03-finding-the-right-worksheet.md": {
+      "title": "Finding the right worksheet",
+      "description": "Choose among all 29 financial worksheets by category and purpose.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/04-loans-and-borrowing.md": {
+      "title": "Loans and borrowing",
+      "description": "Complete field references and examples for loans, overpayments, credit and refinancing.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/05-tax-vat-and-invoices.md": {
+      "title": "Tax, VAT & invoices",
+      "description": "Complete field references and examples for tax, net-to-gross, invoices and VAT.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/06-pricing-and-business.md": {
+      "title": "Pricing & business",
+      "description": "Complete field references and examples for pricing, depreciation, allocation, forecasting and inventory.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/07-investments-savings-and-economics.md": {
+      "title": "Investments, savings and economics",
+      "description": "Complete field references and examples for NPV, IRR, savings, growth, inflation and currency fees.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/08-callable-expression-helpers.md": {
+      "title": "Callable expression helpers",
+      "description": "Syntax, parameter meanings and examples for the 26 callable financial helper signatures.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    },
+    "finance/09-interpreting-schedules-and-numerical-searches.md": {
+      "title": "Interpreting schedules and numerical searches",
+      "description": "Interpret schedules, fee accounting, numerical search bounds and currency comparison assumptions.",
+      "tags": [
+        "Finance",
+        "Reference"
+      ]
+    }
+  }
+}
